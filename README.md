@@ -2,7 +2,7 @@
 Ngrok Gui Client it's application made with Love ❤️‍ and `Qt` that let u use Ngrok with Graphical interface + i know should not that but nah...
 
 ### Token
-The app fetches your token from this file *~/.ngrok2/ngrok.yml* if isn't exist the application will Enable Token `LineEdit`
+The app fetches your token from this file `~/.ngrok2/ngrok.yml` if isn't exist the application will Enable Token `LineEdit`
 
 # screens
 
