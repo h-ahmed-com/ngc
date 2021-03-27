@@ -4,6 +4,9 @@ Ngrok Gui Client it's application made with Love ❤️‍ and `Qt` that let u u
 ### Token
 The app fetches your token from this file `~/.ngrok2/ngrok.yml` if isn't exist the application will Enable Token `LineEdit`
 
+### Ngrok
+You should put ngrok executable file near to the application if you did not install it previously
+
 # screens
 
 ### 1
